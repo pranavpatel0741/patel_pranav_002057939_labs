@@ -58,10 +58,7 @@ public class ManageAccountJPanel extends javax.swing.JPanel {
 
         tblAccounts.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
-                {null, null, null, null},
-                {null, null, null, null},
-                {null, null, null, null},
-                {null, null, null, null}
+
             },
             new String [] {
                 "Bank Name", "Routing Number", "Account Number", "Balance"
