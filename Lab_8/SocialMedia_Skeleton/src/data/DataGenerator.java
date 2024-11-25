@@ -34,7 +34,7 @@ public class DataGenerator {
     private final String LINE_BREAK = "\n";
     
     private final String USER_CAT_PATH = "./UserCatalogue.csv";
-    private final String COMMENT_FILE_PATH = "./CommentData.csv";
+    private final String COMMENT_FILE_PATH = "../CommentData.csv";
     
     private DataGenerator() throws IOException {
                 
