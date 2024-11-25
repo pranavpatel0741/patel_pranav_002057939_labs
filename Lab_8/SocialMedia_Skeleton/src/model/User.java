@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  *
- * @author harshalneelkamal
+ * @author pranav
  */
 public class User {
     private int id;
